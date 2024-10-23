@@ -1,6 +1,3 @@
-Here’s a beautiful README template for your React Native movie app. This README provides an overview of your project, highlights key features, and includes instructions for setting up and running the project.
-
----
 
 # 🎬 Movie Show App
 
